@@ -75,9 +75,7 @@ When you choose to sort the CSV file using the "Sort CSV File" option, the scrip
 - If the specified column is a string column, the data is sorted alphabetically.
 - If the specified column is a numeric column, the data is sorted in ascending order.
 
-## License
 
-This script is released under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
